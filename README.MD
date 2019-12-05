@@ -21,8 +21,11 @@ This project is not to perfection.But all efforts are directed to making it bett
  ## TECHNOLOGIES USED
 
  HTML
+
  css3
+
  javascript
+ 
  ## CONTACT DETAILS
  for any information concerning the project reach me on
  ## my contact +254-740-636-752
